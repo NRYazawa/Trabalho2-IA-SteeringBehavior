@@ -1,0 +1,12 @@
+# Saída de compilação
+out/
+bin/
+*.class
+
+# IntelliJ
+.idea/workspace.xml
+*.iws
+
+# Sistema
+.DS_Store
+Thumbs.db
